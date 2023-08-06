@@ -1,0 +1,240 @@
+*{
+    margin: 0;
+    padding: 0;
+ } 
+.navbar{
+    border: solid black 2px;
+    background-color: #AFEEEE;
+    padding: 10px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    
+}
+h1{
+    display:inline;
+    padding: 10px;
+    margin: 10px;
+}   
+ul{
+    display: inline;
+    margin-left: 70%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+}
+li{
+    display: inline;
+    padding: 10px;
+    margin:10px;
+}
+.first{
+    background-color: #AFEEEE;
+    border:solid black 2px ;
+    height: 250px;
+    border: none;
+    
+}
+.pfirst{
+    padding-left: 40px;
+    padding-top: 20px;
+
+}
+.h1first{
+    padding-left: 30px;
+}
+.tablefirst{
+    padding-left: 40px;
+}
+.buttonfirst{
+    height: 30px;
+    width: 100px;
+    background-color: black;
+    color: white;
+}
+.p1first{
+    padding-left: 40px;
+    color: grey;
+}
+.imgfirst{
+    padding: 30px;
+    margin-right: 20px;
+}
+.img1{
+    float: right;
+}
+.second{
+    background-color: white;
+    color: black;
+    border:solid black 2px ;
+    border: none;
+}
+.h1second{
+    margin: 10px;
+    padding-left: 45%;
+}
+.psecond{
+    margin: 10px;
+    padding-left: 35%;
+}
+.container{
+    display: flex;
+    justify-content: space-around;
+}
+.div{
+    border: solid black 2px;
+    display: inline-block;
+    width: 200px;
+    height: 150px;
+    text-align: center;
+    margin: 20px;
+    padding: 30px;
+}
+.h1third{
+    margin: 10px;
+    padding-left: 45%;
+}
+.third{
+    background-color: #AFEEEE;
+    border:solid black 2px ;
+    height: 450px;
+    border: none;
+    
+}
+.products{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.img2{
+   display: inline;
+   position: relative;
+   bottom: 50px;
+   text-align: center;
+
+}
+.img3{
+    display: inline;
+    text-align: center;
+}
+.img4{
+    display: inline;
+    position: relative;
+    bottom: 50px;
+    text-align: center;
+}
+.pproducts{
+    text-align: center;
+    display: inline;
+    padding-left: 20%;
+}
+.box{
+    text-align: center;
+}
+.four{
+    height: 450px;
+}
+.five{
+    background-color: #AFEEEE;
+    border:solid black 2px ;
+    height: 250px;
+    border: none; 
+}
+.imgfive{
+   display: flex;
+   flex-wrap: wrap;
+   position: relative;
+   bottom: 50px;
+   float: left;
+}
+.h1five{
+  position: relative;
+  left: 75px;
+  display: flex;
+  flex-wrap: wrap;
+}
+.pfive{
+   
+    position: relative;
+    left: 100px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.h5five{
+   
+    position: relative;
+    left: 100px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.six{
+    background-color: white;
+    color: black;
+    border:solid black 2px ;
+    border: none;
+   
+}
+.six1{
+    text-align: center;
+}
+.inputsix{
+   width: 80%;
+   height: 30px; 
+}
+.search{
+    text-align: center;
+    padding: 10px;
+}
+.submit{
+    background-color: black;
+    color: white;
+    height: 35px;
+    width: 100px;
+}
+.button{
+    text-align: center;
+    padding: 0px;
+}
+.sivan{
+    background-color: #AFEEEE;
+    border:solid black 2px ;
+    height: 250px;
+    border: none;
+}
+.oip{
+    height: 50px;
+    width: 140px;
+    mix-blend-mode: color-burn;
+   padding-left: 60px;
+   display: flex;
+   flex-wrap: wrap;
+   flex-direction: column;
+}
+.psivan{
+    padding-top: 0px;
+    padding-left: 60px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+.p1sivan{
+    padding-left: 60px;
+    padding-top: 40px;
+}
+.last{
+    padding-left: 60px;
+   
+    display: block;
+    padding-top: 60px;
+}
+.pend{
+    float: right;
+}
+@media only screen and (max-width: 768px) {
+    
+  }
+  
+  @media only screen and (max-width: 480px) {
+    
+  }
+  
